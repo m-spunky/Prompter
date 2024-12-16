@@ -5,9 +5,5 @@ This repository is a curated collection of prompts designed to spark engaging co
 Whether you're looking for inspiration, curious to see what LLM can do, or eager to contribute your own prompts, you've come to the right place.
 
 In this library, you'll find a diverse range of prompts covering various topics and scenarios.
-From thought-provoking questions to creative story starters, there's something here for everyone. F
-eel free to explore, experiment, and unleash your creativity with Prompter.
+From thought-provoking questions to creative story starters, there's something here for everyone. Feel free to explore, experiment, and unleash your creativity with Prompter.
 
-## Usage
-
-API : 
